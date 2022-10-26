@@ -1,51 +1,51 @@
 [
    {
       "id": "1393e0e58a5c404fbd15261f11c2ab5a",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "title": "How to create stronger passwords?",
       "author": {
-        "name": "Jimmy Dane",
+        "name": "Rezaun Kabir",
         "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://i.ibb.co/sRKYrgN/rezaun-kabir.jpg"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "thumbnail_url": "https://i.ibb.co/tZ7vGzF/how-to-create-stronger-passwords-thumbnail.jpg",
+      "image_url": "https://i.ibb.co/JFB3327/how-to-create-stronger-passwords-image.jpg",
+      "details": "<p>Passwords are a necessary evil in today's world. We need them to protect our online identities, but they can be a pain to remember and type in. That's why it's important to ensure your passwords are up to date and compliant with the National Institute of Standards and Technology (NIST) guidelines. NIST released updated password guidelines that include new requirements for length and complexity. In this blog post, we will discuss the new NIST guidelines and how you can update your passwords to comply with them.</p><h3>Outdated practices</h3><p>The previous NIST guidelines on password creation followed a conventional approach to password security. The guidelines recommended regular password resets and the use of long, complex passwords (i.e., required minimum number of characters, use of special characters and numbers, etc.).</p><p>But these guidelines unintentionally led to people making weakening passwords using predictable capitalization, special characters, and numbers. And though users changed passwords on a regular basis, many assumed that they could simply add or change one or two characters in their password. These practices proved to be ineffective and resulted in the creation of passwords that hackers could easily crack via brute force.</p><h3>Stronger password for better security</h3><p>NIST eventually admitted that their initial recommendations only caused more difficulties than it resolved. In 2020, the organization updated its guidelines.</p><h3>Stronger password for better security</h3><p>NIST eventually admitted that their initial recommendations only caused more difficulties than it resolved. In 2020, the organization updated its guidelines.</p><p>Among the most notable changes are:</p><ol><li>Frequent password resets are no longer required. Resets are now only required in case a password is compromised or forgotten.</li><li>Password complexity requirements have been dropped in favor of construction flexibility — NIST recommends the use of long passphrases instead of long, overly complex passwords.</li><li>Mandatory screening of new passwords against lists of common or compromised passwords is highly recommended. The use of nonstandard characters, such as emoticons, is now allowed.</li></ol><p>The implementation of multifactor authentication (MFA) is encouraged. MFA has many advantages, which is why most cybersecurity experts advise businesses to adopt it in their login policies. By requiring multiple sources of authentication, MFA helps prevent unauthorized access to sensitive information and systems.</p>"
     },
     {
       "id": "1393e0e58a5c404fbd15261f11c2ab7b",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+      "title": "Everything about single sign-on!",
       "author": {
-         "name": "Jimmy Dane",
+         "name": "Zaki Mahmud",
          "published_date": "2022-08-24 17:27:34",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "img": "https://i.ibb.co/FzYM9dZ/zaki-mahmud.jpg"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "thumbnail_url": "https://i.ibb.co/QH0Rt6d/everything-about-single-sign-on-thumbnail.jpg",
+      "image_url": "https://i.ibb.co/NZs4BgF/everything-about-single-sign-on-image.jpg",
+      "details": "<p>With every new system we use and online account we create, we need to add another password to our ever-growing list. However, memorizing all these passwords is challenging and can lead to password fatigue. Single sign-on can be the solution to this problem.</p><h3>What is single sign on?</h3><p>Single sign-on or SSO is an authentication method that lets users access several applications and websites with a single set of login credentials. For example, if you log in to Gmail, SSO will automatically sign you into other Google applications, such as Analytics and AdSense.</p><h3>How does SSO work?</h3><p>SSO is built on the concept of federated identity, which allows multiple systems to share identification information. When a user logs in to a service with their SSO credentials, an authentication token is generated and stored on their browser or in the SSO provider's servers. Any app or website that the user visits afterward will verify the user’s identity with the SSO provider, which will then deliver the user's token to confirm their identity and grant them access.</p><p>This forms the foundation for modern SSO solutions that use protocols such as OpenID Connect and SAML 2.0.</p>"
     },
 
     {
       "id": "1393e0e58a5c404fbd15261f11c2ab8c",
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+      "title": "How to avoid security threats on web?",
       "author": {
-         "name": "Jennifer Wood",
+         "name": "Jubaida Rahman",
          "published_date": "2022-08-30 16:38:45",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "img": "https://i.ibb.co/P9LYkv2/jubaida-rahman.jpg"
       },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "thumbnail_url": "https://i.ibb.co/hVL45Xz/how-to-avoid-security-threats-on-web-thumbnail.jpg",
+      "image_url": "https://i.ibb.co/wQ2fJDD/how-to-avoid-security-threats-on-web-image.jpg",
+      "details": "<p>Malicious actors wait in the virtual shadows while you do internet searches, scroll through your social media feeds, or use company apps online. Just by browsing the web, your workers increase the risk of exposing sensitive and critical data, which is why everyone in your organization must learn how to avoid cyberthreats. Here are some tips to get you started on safe internet surfing.</p><p>Install anti-malware software</p><p>Browsers are now programmed to block web pages of most malicious sites, i.e., websites that deliver malware to your IT systems. However, even the most advanced browser can't block every risky site, especially if a site is legitimate but has been turned into an unwitting mule for malware. Since malware infections via web browsing appear to be inevitable, you must install anti-malware software on every device you and your employees use for work. It'll guard you against known viruses, worms, and other malicious software that are designed to steal your data and wreak havoc on your IT systems.</p><h3>Have everyone in your organization use a virtual private network (VPN)</h3><p>Hackers can pry into your internal channels and external communications with your customers and business partners to steal sensitive information, such as account login credentials and banking details. Fortunately, you can use a VPN to encrypt your internet traffic. A VPN will effectively bar any unauthorized party from reading any messages you and your staff send out and receive via a web browser or another medium.</p><h3>Install ad blockers</h3><p>While most online ads are benign, some contain widgets that send your data to third parties that can then send you more targeted ads based on the data gleaned about you. Clicking on some of these ads can bring you to malicious sites. Thankfully, you can use ad blockers to keep suspicious pop-up, rollover, and banner ads from showing up on your browsers.</p><h3>Stop online activity trackers</h3><p>If you don't want a third party monitoring your surfing habits, use your browser's private browsing mode, such as Private Browsing on Safari and Incognito on Chrome. Private browsing also protects you from malware and third-party cookies that track your online activities. You can also use browser extensions that stop social networking sites, such as Facebook and Twitter, from tracking your online behavior and collecting other information about you. Such browser extensions include Privacy Badger and Ghostery.</p>"
     },
     {
       "id": "1393e0e58a5c404fbd15261f11c2ab9d",
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+      "title": "How virtual reality can benefit SMBs?",
       "author": {
-         "name": "Jennifer Wood",
+         "name": "Shakil Ansary",
          "published_date": "2022-08-30 16:38:45",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "img": "https://i.ibb.co/RTGbCXJ/shakil-ansary.jpg"
       },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "thumbnail_url": "https://i.ibb.co/4sc1386/how-virtual-reality-can-benefit-smbs-thumbnail.jpg",
+      "image_url": "https://i.ibb.co/x2yzDbW/how-virtual-reality-can-benefit-smbs-images.jpg",
+      "details": "<p>Virtual reality (VR) is an immersive experience that can take your business to new heights. It can help you connect with customers in ways never before possible. In this blog post, we will explore the different ways your business can use VR to improve your bottom line.</p><h3>Take customers on an adventure</h3><p>If you are a travel- or adventure-based business, you can use VR to give customers a taste of what to expect from your attractions. For example, if you’re running an amusement park, you can feature a VR simulation of one of your most popular rides. Or if you own a resort or campground, you can create a virtual tour of your rooms as well as VR simulations of the activities you have in store for visitors.</p><h3>VR training</h3><p>As a training tool, VR has been proven to be much more effective than in-classroom or e-learning methods. According to a 2020 PwC study, VR learners are:</p><ol><li>Four times more focused than their e-learning counterparts</li><li>Four times faster to train than their in-classroom counterparts</li><li>Nearly four times more emotionally connected to what they are learning than classroom learners</li><li>275% more confident to apply the skills they’ve learned from the training</li></ol><p>Another important advantage of VR training is that it can safely replicate situations that are dangerous or have adverse consequences if people make wrong or suboptimal choices in real life. Here are a few examples:</p><ol><li>Pilots log many hours in VR training long before they actually get off the ground.</li><li>With haptic VR, budding surgeons can learn to use scalpels and other tools without cutting into actual flesh.</li><li>Trainees in organizational leadership can also learn soft skills via VR training. Immersive VR interactions provide impactful learning experiences with little to no risk of unwanted real-world consequences such as fallouts with colleagues.</li></ol><h3>Create your own VR prototypes</h3><p>Thanks to VR, you won’t have to rely solely on manufacturing prototypes when you want to see what your product physically looks like and how it might work. Also, VR prototypes allow you to make any changes before actual production. Model creation in VR, in particular, lets you save company resources, as it enables manufacturers to make changes to a product without the time and money required to build a physical model.</p><p>And if you have the data, you can use VR to simulate real-world conditions. To illustrate, you can see how your automotive suspension design responds to different types of terrain, or how easily your drone can be controlled in a hurricane.</p>"
    }
 ]
