@@ -1,86 +1,92 @@
 [
    {
       "id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "price": 488,
+      "title": "AJAX Development",
+      "sub_title": "Create Elegant, Powerful Web and Mobile Applications Using AJAX.",
+      "price": 13.99,
       "author": {
-        "name": "Jimmy Dane",
-        "published_date": "2022-08-24 17:27:34",
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "name": "Mark Lassoff",
+        "published_date": "2022-02-22 17:27:34",
+        "img": "https://imgs.search.brave.com/YInideExxyMMVknzJUKLR4Cpyh-jWtDXV6g1v2ow3fU/rs:fit:458:375:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L2luZGlhbi1idXNp/bmVzc21hbi1waWN0/dXJlLWlkMTc3Mzkw/MzA3P2s9NiZtPTE3/NzM5MDMwNyZzPTE3/MDY2N2Emdz0wJmg9/ZGdzUjVfTnk1N2Zj/YnBoWUhKRThTVlJk/Q3NZR3dtNF9xcmxh/WmdaRUFoST0"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "thumbnail_url": "https://i.postimg.cc/G3Tjm0dT/ajax-development-thumbnail.png",
+      "image_url": "https://i.postimg.cc/bJNvrf7X/ajax-development-image.png",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "details": "<p>You’ve learned a little Javascript,  but you still look at websites with slick, smooth and elegant user interfaces and want to know how web developers create that. The answer is simple: Ajax.  You’ve probably heard of it, but you’ve always wondered “What is Ajax”? Ajax is simply Asynchronous Javascript and XML. By taking our Ajax course, you can make pages on your web application respond quickly, and with a minimum of screen refreshes.</p><p>With our Ajax course and a little Javascript knowledge you can use Ajax to take database information and store, alter, sort and conditionally format it all on the client side.  This minimizes the load on your server and makes your applications respond quickly and without reloading the HTML page.  Ajax communicates with the server behind the scenes while your user continues to use your web site, accessing the information they want. Our course will show you numerous Ajax examples and help you become proficient in using Ajax.</p><p>In our Ajax course, master trainer Mark Lassoff takes you through the basics of Ajax right to advanced topics like parsing JSON responses from web services.  Our Ajax course is recommended for all web developers who want to improve their client side skills, and make professional, fast and responsive web applications.</p><h3>What you'll learn</h3><ol><li>Understand the basics of Ajax interactions</li><li>To Update the Browser Window's HTML content dynamically through the DOM</li><li>To Monitor Server Response for Process Completion</li><li>To Receive and Process XML Objects in the DOM</li><li>To Understand the Role of a Web Server in Ajax</li><li>To Understand and use the XMLHttpRequest() object in Javascript</li><li>To Dynamically Create and Send Parameterized Queries to a Server</li><li>To Display Server Response in Plain Text</li><li>To Receive and Parse JSON Objects in the DOM</li></ol><h3>Who this course is for:</h3><ol><li>Web Developers</li><li>Mobile Developers using the HTML5 Stack</li><li>Programming Students</li><li>Software Developers</li><li>Anyone interested in improving web site performance</li><li>People with some Javascript Experience or those who have completed an Introductory Javascript course</li></ol>"
     },
     {
       "id": "0282e0e58a5c404fbd15261f11c2ab6b",
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "price": 488,
+      "title": "Learn HTML5 From Scratch",
+      "sub_title": "A Complete HTML5 Programming Course for Beginners.",
+      "price": 24.99,
       "author": {
-         "name": "Jimmy Dane",
-         "published_date": "2022-08-24 17:27:34",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "name": "Eduonix",
+         "published_date": "2022-03-15 17:27:34",
+         "img": "https://imgs.search.brave.com/Y0ErGscOlADUsbcyi05OBxo4GCh-BhMo3F6-My5VaNc/rs:fit:416:416:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L3BvcnRyYWl0LW9m/LW1hdHVyZS1oaXNw/YW5pYy1tYW4tcGlj/dHVyZS1pZDgwNTAx/MjA2ND9rPTYmbT04/MDUwMTIwNjQmcz0x/NzA2NjdhJnc9MCZo/PXdzVU5Vc2plU0xm/a20tNlVXRUpsZmdL/bE1vYk1kSW9Ec2tK/TmFKMVBoODA9"
       },
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "thumbnail_url": "https://i.postimg.cc/rmwgyzgS/html5-thumbnail.png",
+      "image_url": "https://i.postimg.cc/QxdsLqpt/html5-image.png",
+      "rating": { "number": 5.0, "badge": "Excellent" },
+      "details": "<p>HTML5 is one of the hot web technologies and is widely gaining acceptance across mobile and web. In our course, you get a complete resource that can get you started on application development for HTML5. In our course, you work on actual examples and go through important concepts required for thorough knowledge. </p><p>In our course, you will start with basic HTML tags. You will learn how to create HTML websites and use CSS in your work before we start discussing HTML5. We do not assume any prior knowledge so we go through the concepts from the beginner's point of view. In our HTML5 lectures, we start with new tags and forms. We then gradually move to advance topics like Drag and Drop and Multimedia. We follow it with difficult topics like Geolocation, WebStorage, and Application cache. This course creates easy to grasp examples for each of the concepts and by the end of it, you will be able to understand the complete picture rather than just bits and pieces of the technology.  Some of the salient features for the course are:</p><ol><li>Designed for absolute beginners</li><li>Practical tips and tricks for the real world development</li><li>Updated to include modern concepts</li><li>It shows how to think in HTML</li><li>Learn the basic Javascript</li></ol><p>This is the complete HTML5 course you will need to get started with HTML5 application development. The simplicity and its content have made it one of the most popular HTML5 courses on the planet.</p><h3>What you'll learn</h3><ol><li>By the end of the course you will be able to create full fledged HTML5 websites</li><li>You will have through understanding of both HTML and CSS</li><li>You will be able to use features like Drag and Drop, Geo location and Web Storage to create immersible user experience.</li><li>You will be able to create web applications for mobile phones as well</li></ol><h3>Who this course is for:</h3><li>No programming background is assumed just a zeal to learn</li>"
     },
     {
       "id": "f69a695f037cd9484cecaea37ca71011",
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-      "price": 400,
+      "title": "AngularJS with Dan Wahlin",
+      "sub_title": "Build robust Single Page Applications with AngularJS framework!",
+      "price": 16.99,
       "author": {
-         "name": "Jennifer Wood",
-         "published_date": "2022-08-30 16:38:45",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "name": "Dan Wahlin",
+         "published_date": "2022-05-30 16:38:45",
+         "img": "https://imgs.search.brave.com/2gRlyCXG11QxjD3F5FiA9JVxzVHkIG0Q4ZPXfFbIdZ4/rs:fit:359:479:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L3BvcnRyYWl0LW9m/LWEtamFwYW5lc2Ut/bWFuLWxvb2tpbmct/YXQtY2FtZXJhLXBp/Y3R1cmUtaWQ1MTE5/MjEzMDI_az02Jm09/NTExOTIxMzAyJnM9/MTcwNjY3YSZ3PTAm/aD1lbDVmdERHVVFN/ODF3LTBkUzRXeHcy/dk5CSjVRc0RHMlhu/SDV1UDVyZHpNPQ"
       },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "rating": { "number": 4.8, "badge": "Excellent" },
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "thumbnail_url": "https://i.postimg.cc/WbRx2wLj/angularjs-thumbnail.png",
+      "image_url": "https://i.postimg.cc/L6c4F1vZ/angularjs-image.png",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "details": "<p>AngularJS is a robust Single Page Application (SPA) framework that can be used to build dynamic, client-centric applications that can run in desktop browsers as well as on phones and tablets. You can use AngularJS to build multi-screen applications that perform much like a desktop application but can be viewed and interacted with using a normal browser.</p><p>In this course by Google Developer Expert (GDE) Dan Wahlin you'll learn essential concepts that you need to know to get started building AngularJS applications such as controllers, scope, views, routes, actories, services and more. The course provides step-by-step walk-throughs and coding demos that you're encouraged to code along with to enhance the learning process. By the end of the course you'll understand how all of the AngularJS pieces fit together and be able to apply this knowledge to building your own custom Web applications. </p><p>The AngularJS JumpStart course is broken down into 6 modules (with additional bonus modules included) with each module providing source code so that you can follow along if you'd like. </p><ol><li>AngularJS - The Big Picture</li><li>Views, Directives and Filters</li><li>Controllers, Scope and Modules</li><li>Routing</li><li>Services and Factories</li><li>Animation</li><li>Bonus: Getting Started Building Custom Directives</li><li>Bonus: Shared Scope, Isolate Scope, the link() Function</li><li>Bonus: Articles on Building Custom AngularJS Directives</li></ol><p>By the end of the course you'll have walked through of all of the key components in AngularJS and built a working Single Page Application. If you're looking to <b>jumpstart</b> your AngularJS knowledge look no further than this course. It's a great technology to know and add to your resume!</p><h3>What you'll learn</h3><ol><li>Learn the benefits of Single Page Applications</li><li>Stay up-to-date on Angular with Google Developer Expert (GDE) Dan Wahlin</li><li>Build Controllers and Bind Data to Views</li><li>Understand the importance of two-way data binding</li><li>Learn what routing is and why it's so important in Angular apps</li><li>Learn how to <b>Jazz</b> up your SPAs with Animations</li><li>Learn and be able to explain the key components in Angular</li><li>Teach HTML New Tricks with Directives</li><li>Use $scope for Data Binding</li><li>Understand the Role of Modules</li><li>Understand how to use Factories and Services</li></ol><h3>Who this course is for:</h3><li>Web developers with existing experience working with HTML, CSS, and JavaScript</li>"
     },
     {
       "id": "f69a695f037cd9484cecaea37ca71012",
-      "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
-      "price": 400,
+      "title": "PHP for Beginners",
+      "sub_title": "Build a Content Management System from Scratch with PHP and MySQL.",
+      "price": 13.99,
       "author": {
-         "name": "Jennifer Wood",
-         "published_date": "2022-08-30 16:38:45",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "name": "Dave Hollingworth",
+         "published_date": "2022-06-10 16:38:45",
+         "img": "https://imgs.search.brave.com/AesmPDvtZnAPYCcLPIt2Auj-BY__2dtQG5gLkFKyFpo/rs:fit:370:463:1/g:ce/aHR0cDovL21lZGlh/LmlzdG9ja3Bob3Rv/LmNvbS9waG90b3Mv/Z3J1bXB5LW9sZC1t/YW4tcGljdHVyZS1p/ZDE1MzAxNzA1NT9r/PTYmbT0xNTMwMTcw/NTUmcz0xNzA2Njdh/Jnc9MCZoPUFMTjdu/UEhRMC05dTd0QUd6/Zk9KalZPTDFuQ3A1/dkhnVXdpaTR2Sl9H/VXc9"
       },
-      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-      "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-      "rating": { "number": 4.3, "badge": "Excellent" },
-      "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+      "thumbnail_url": "https://i.postimg.cc/5yh2NY5y/php-thumbnail.png",
+      "image_url": "https://i.postimg.cc/NG7J8q29/php-image.png",
+      "rating": { "number": 5.0, "badge": "Excellent" },
+      "details": "<p>Are you wanting to get into Web development, but are not sure where to start? So maybe you tried out some PHP and MySQL tutorials on Youtube, but found them too hard or outdated, and feel that you need a more comprehensive introduction. Maybe you want to learn how to write PHP the right way.  Secure code, OOP ready, and maximising re-usability as well as finding out about PHP programming standards to adopt and adhere too?</p><p>Perhaps your boss or client threw you in the deep end with a PHP and MySQL project, and you need to get up to speed with PHP, fast. Whatever the reason, this course is for you.</p><p>This course is going to teach you how to create web applications using PHP and MySQL.  Specifically, you will learn PHP and then create you own content management system (CMS) from scratch.</p><h3>Why PHP?</h3><p>PHP is the most popular website programming language in the world.  The combination of PHP and MySQL is used extensively to create web applications, and developers with these key skills are in high demand.  This course is going to teach you how to create web applications in PHP using the MySQL database.</p><h3>What will you learn in this course?</h3><p>You will learn  how to create a dynamic website using the most popular website programming language in the world, PHP. Dave Hollingworth, your instructor will teach you the PHP programming language, and take you through the steps to build a working CMS in PHP and MySQL from scratch. Along the way, you will learn how to secure your code, how to write reusable, more maintainable code using programming standards, and how to structure your code using object-oriented programming techniques.</p><p>Dave will teach you the theory and then put the theory into practice when building the CMS. You will also learn how to style your site using Bootstrap, how to integrate third-party code into your site, how to store data in a relational database and use this from PHP code, and more. The course is very thorough, and goes through everything from installing a web server on your own computer, and editor to writing the code to create your web app.  Towards the end of the course you will even learn how to upload the code and make your code live on the internet (very useful if you already have your own Hosting account).  This is not necessary to complete the course though.</p><p>In summary, the course will teach you the core skills you need to know to become a productive PHP programmer.</p><h3>Why this course?</h3><p>Firstly, Dave has been creating web applications since 1999, when he created his first web application for a major insurance company.  In addition he has been teaching IT for many years. As a result, you will be learning the best practices from an experienced developer.</p><p>Dave will teach you the theory but then show how to put those techniques into practice.  You will start building a CMS application from early on in the course and new techniques and theory are introduced as and when they're needed to build the next part of the CMS. New code is introduced one word or one line at a time, so you will never get bogged down or overwhelmed.</p><p>You will also learn real-world developer skills such as referring to and getting the most out of the documentation. This is an essential skill for developers to learn. After completing this course, you will have the necessary skills to be able to create your own web applications with PHP and MySQL. The sooner you sign up for this course, the sooner you will have the skills and knowledge you need to increase your job or consulting opportunities. PHP developers are in high demand!</p><p>Your new job or consulting opportunity awaits!</p><p>Why not get started today?</p><h3>Who this course is for:</h3><li>Anyone wanting to learn both the PHP language and how to create web applications</li>"
     },
     {
       "id": "11468ed61aee84de492a8b04158a22f9",
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
-      "price": 980,
+      "title": "CSS3 - The Complete Guide",
+      "sub_title": "Learn CSS for the first time or brush up your CSS skills and dive in even deeper.",
+      "price": 10.99,
       "author": {
-         "name": "system",
-         "published_date": "2022-08-24 23:15:00",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "name": "Manuel Lorenz",
+         "published_date": "2022-07-24 23:15:00",
+         "img": "https://imgs.search.brave.com/Tk3-1PKV0CsP8mEIVA5BoI4Q66Dz3MUt0eSw4nl9G68/rs:fit:494:348:1/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L3BvcnRyYWl0LW9m/LWhhbmRzb21lLWJh/bGQteW91bmctbWFu/LW91dGRvb3JzLXBp/Y3R1cmUtaWQ4NDY3/OTM4NDY_az02Jm09/ODQ2NzkzODQ2JnM9/MTcwNjY3YSZ3PTAm/aD1naTFIUUQ2UEwt/OUVmMEstM255LVMx/LXg3U1JUbzFvN0tS/Z2JSTm90WkxVPQ"
       },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+      "thumbnail_url": "https://i.postimg.cc/RV6fTwN3/css-thumbnail.png",
+      "image_url": "https://i.postimg.cc/QCrLnQjX/css-image.png",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "details": "<p>CSS - short for Cascading Style Sheets - is a programming language you use to turn your raw HTML pages into real beautiful websites.</p><p>This course covers it all - we start at the very basics (What is CSS? How does it work? How do you use it)? and gradually dive in deeper and deeper. And we do this by showing both practical examples as well as the theory behind it.</p><p>Getting started with CSS might look easy but there actually is a lot of depth to CSS - hence this course provides different <b>Tracks</b> or <b>Entry points</b> to exactly meet your demands and reflect you current knowledge level:</p><p><b>The Basics Track:</b> Start from scratch, learn CSS from the ground up. You start with lecture 1 and simply follow through to the end.</p><p><b>The Advanced Track:</b> You already know the CSS basics, you know what selectors are and how it works but you want to dive in deeper and learn some advanced features and usages.</p><p><b>The Expert Track:</b> You got the advanced knowledge, too, but you want to dive into things like Flexbox, CSS Grid, CSS Variables or Sass. This track is for you.</p><p>Of course this course offers the theory and practical examples - we'll build an entire real course project throughout the course - but there also are multiple assignments, quizzes and challenges for you to practice individual concepts taught throughout the course.</p><p>Talking about the course project - we'll build the frontend (no backend) of a fictional web hosting company. We'll have a starting screen which has different sections, we got a responsive design with an animated side-drawer, we got modals and forms and in general we got a lot of CSS animations, font styles and more!</p><h3>Who this course is for:</h3><ol><li>Anyone who wants to learn CSS for the first time or wants to sharpen his or her CSS skills</li><li>Anyone who's excited to learn about the latest CSS features like Flexbox, CSS Grid or CSS Variables</li><li>Anyone who knows CSS but wants to dive deeper</li></ol>"
     },
     {
       "id": "11468ed61aee84de492a8b04158a22f0",
-      "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+      "title": "Java Programming A to Z",
+      "sub_title": "Become a Computer Programmer by Learning Core Java Skills",
       "price": 980,
       "author": {
-         "name": "system",
-         "published_date": "2022-08-24 23:15:00",
-         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+         "name": "Sumedh Madhav",
+         "published_date": "2022-09-24 23:15:00",
+         "img": "https://imgs.search.brave.com/9AXaVc-ys3gvdyzHzXyadrVQphAk66tuzfPFR_8dzKA/rs:fit:297:421:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC8zNS9iZS80YS8z/NWJlNGFjNGY0NDRj/NTM2OGIzNDdjNjc1/ZWQ1ODRkOS5qcGc"
       },
-      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-      "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+      "thumbnail_url": "https://i.postimg.cc/05M5rnzB/java-programming-thumbnail.png",
+      "image_url": "https://i.postimg.cc/yxzmgdyQ/java-programming-image.png",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "details": "<p>Would you like to learn real world programming skills that will help you get your first java programming job?</p><p>Java is one of the most popular programming languages used to create Web applications and platforms. It was designed for flexibility, allowing developers to write code that would run on any machine.</p><p>So it’s your time now to take advantage of a loads of jobs and freelance opportunities that are available for java programmers out there.</p><p>This course is provided by CodeIn Academy Instructors who are Oracle Certified professionals with many years’ experience in java programming.</p><p>Once you have gone through this course you will be able to understand Java features very easily because this course covers each topic in details and is focused to break down topics with simplified examples. Each lecture comes with full coding notebooks with which you can practice in your own as well. Therefore, this course is for you! It doesn’t matter if you have never programmed before, or if you already know the basics, if you are a programmer switching languages to Java, or just want to learn more about Java features.</p><p>So enroll in this course now because its your time to get these highly paid and very on-demand skills.</p><h3>Who this course is for:</h3><li>Anyone who wants to learn Java Programming</li>"
    }
 ]
